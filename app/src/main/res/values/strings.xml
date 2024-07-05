@@ -23,4 +23,6 @@
     <string name="dow_monday">Monday</string>
     <string name="dow_monday_short">Mon</string>
     <string name="dow_monday_min">M</string>
+
+    <string name="wazzup" translatable="false">Wazzup!</string>
 </resources>
