@@ -8,17 +8,16 @@ msgstr ""
 "Project-Id-Version: Weblate 3.0\n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
 "POT-Creation-Date: 2018-06-09 14:08+0000\n"
-"PO-Revision-Date: 2024-06-20 14:24+0000\n"
+"PO-Revision-Date: 2025-08-02 17:43+0000\n"
 "Last-Translator: Weblate Admin <weblate@example.com>\n"
-"Language-Team: Tagalog <http://127.0.0.1:8080/projects/test-project/"
-"test-component/tl/>\n"
+"Language-Team: Tagalog <http://localhost:8080/projects/demo/django/tl/>\n"
 "Language: tl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1 && n != 2 && n != 3 && (n % 10 == 4 "
 "|| n % 10 == 6 || n % 10 == 9);\n"
-"X-Generator: Weblate 5.6.1-dev\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 #: weblate/templates/translation.html:45 weblate/trans/forms.py:1404
 msgid "Files"
@@ -48,7 +47,7 @@ msgstr[1] ""
 
 #: weblate/templates/translation.html:156
 msgid "Other components"
-msgstr ""
+msgstr "Ibang pang mga bahagi"
 
 #: weblate/templates/translation.html:175
 #: weblate/templates/unit-details.html:26
